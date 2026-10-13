@@ -1,0 +1,21 @@
+Item_ID,Product_Name,Product_Category,Current_Stock,Daily_Sales_Average,Lead_Time_Days,Safety_Stock,Unit_Cost,Supplier
+IID0001,Air Mineral Botol 600 ml,Makanan dan Minuman,19,12.46,3,33,2100,PT Sumber Pangan Nusantara
+IID0002,Mie Instan Goreng Original 85 g,Makanan dan Minuman,136,14.76,5,103,2650,PT Sumber Pangan Nusantara
+IID0003,Kopi Sachet 3in1 Isi 20,Makanan dan Minuman,44,4.09,7,26,14500,PT Aneka Boga Sejahtera
+IID0004,Biskuit Kelapa 300 g,Makanan dan Minuman,428,3.6,7,25,9800,PT Sumber Pangan Nusantara
+IID0005,Minyak Goreng Kemasan 2 L,Makanan dan Minuman,0,3.11,5,34,33500,PT Aneka Boga Sejahtera
+IID0006,Sampo Anti Ketombe 170 ml,Perawatan Pribadi,73,1.72,6,12,21500,PT Cipta Perawatan Mandiri
+IID0007,Sabun Mandi Cair 450 ml,Perawatan Pribadi,8,2.92,4,16,24000,PT Cipta Perawatan Mandiri
+IID0008,Pasta Gigi Pencegah Gigi Berlubang 190 g,Perawatan Pribadi,53,6.84,5,31,13500,PT Cipta Perawatan Mandiri
+IID0009,Deodoran Roll-On 50 ml,Perawatan Pribadi,20,0.33,10,5,14500,CV Mitra Kosmetika Jaya
+IID0010,Tisu Basah Antibakteri Isi 50,Perawatan Pribadi,63,1.59,4,11,7800,CV Mitra Kosmetika Jaya
+IID0011,Deterjen Bubuk 800 g,Kebutuhan Rumah Tangga,287,6.71,7,43,17500,PT Bersih Sehat Lestari
+IID0012,Cairan Pembersih Lantai 800 ml,Kebutuhan Rumah Tangga,263,2.23,6,17,12500,PT Bersih Sehat Lestari
+IID0013,Sabun Cuci Piring 750 ml,Kebutuhan Rumah Tangga,14,1.52,5,11,11500,PT Bersih Sehat Lestari
+IID0014,Kantong Sampah Hitam Isi 20,Kebutuhan Rumah Tangga,41,0.58,10,13,6800,CV Rumah Tangga Makmur
+IID0015,Pengharum Ruangan Semprot 300 ml,Kebutuhan Rumah Tangga,58,0.36,12,6,15800,CV Rumah Tangga Makmur
+IID0016,Pulpen Gel Hitam 0.5 mm,Alat Tulis dan Kantor,33,6.54,7,54,2800,PT Inti Alat Tulis Indonesia
+IID0017,Buku Tulis A5 Isi 40 Lembar,Alat Tulis dan Kantor,89,2.14,5,16,3900,PT Inti Alat Tulis Indonesia
+IID0018,Kertas HVS A4 70 gsm per Rim,Alat Tulis dan Kantor,11,1.76,3,10,42500,PT Inti Alat Tulis Indonesia
+IID0019,Lakban Bening 48 mm,Alat Tulis dan Kantor,15,0.24,8,4,6200,CV Sarana Kantor Prima
+IID0020,Baterai AA Alkaline Isi 4,Alat Tulis dan Kantor,47,0.62,14,14,19500,CV Sarana Kantor Prima
